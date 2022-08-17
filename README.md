@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shane.
-- 👀 I’m interested in machine learning, partically deep learning and their applications on health care area.
+- 👀 I’m interested in machine learning, particularly deep learning and their applications.
 - 🌱 I’m currently learning C++ advance coding and system design as well as MLops (machine learning engineering in operations).
 - 💞️ I’m looking to collaborate on open source developing for machine learning and Kaggle compitition.
 - 📫 Send me message here or my LinkedIn @ https://www.linkedin.com/in/xingzhaoo/.
