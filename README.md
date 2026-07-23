@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shane.
 - 👀 I’m interested in machine learning, particularly deep learning and their applications.
-- 🌱 I’m currently learning C++ advance coding and system design as well as MLops (machine learning engineering in operations).
+- 🌱 I’m currently learning agentic engineering, LLM post-training, Gen AI, system design as well as MLops (machine learning engineering in operations).
 - 💞️ I’m looking to collaborate on open source developing for machine learning and Kaggle compitition.
 - 📫 Send me message here or my LinkedIn @ https://www.linkedin.com/in/xingzhaoo/.
 
